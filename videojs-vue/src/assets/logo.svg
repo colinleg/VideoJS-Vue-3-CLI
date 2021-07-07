@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="375"
+   height="260"
+   viewBox="0 0 375 260"
+   fill="none"
+   version="1.1"
+   id="svg905"
+   sodipodi:docname="logo4-MAJ-bg-dark.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata911">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs909">
+    <rect
+       x="367.56732"
+       y="213.02097"
+       width="290.06616"
+       height="188.22424"
+       id="rect996" />
+    <rect
+       x="-44.006207"
+       y="-24.50992"
+       width="377.24081"
+       height="91.611794"
+       id="rect965" />
+    <rect
+       x="-84.376373"
+       y="-49.308681"
+       width="442.81729"
+       height="35.074474"
+       id="rect915" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="739"
+     id="namedview907"
+     showgrid="false"
+     inkscape:zoom="1.6369522"
+     inkscape:cx="174.75436"
+     inkscape:cy="304.35534"
+     inkscape:window-x="45"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1089"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true" />
+  <g
+     id="g1089"
+     inkscape:export-filename="/home/colin/Logo-minimal-fini.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:label="group">
+    <path
+       d="m 289.60905,104.03245 c 0,17.376 -4.528,34.452 -13.137,49.546 -8.609,15.093 -21.002,27.683 -35.959,36.528 -14.956,8.845 -31.959,13.641 -49.333,13.914 -17.3743,0.273 -34.5195,-3.986 -49.7464,-12.357 l 2.4088,-4.382 c 14.4655,7.953 30.7535,11.999 47.2586,11.739 16.505,-0.259 32.658,-4.815 46.867,-13.218 14.208,-8.402 25.982,-20.363 34.161,-34.701 8.179,-14.339 12.48,-30.562 12.48,-47.069 z"
+       fill="#4893bd"
+       id="path891"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 139.60905,190.63545 c -15.0482,-8.689 -27.5728,-21.148 -36.3396,-36.15 -8.766691,-15.003 -13.472951,-32.031 -13.654921,-49.406 -0.18196,-17.375003 4.16666,-34.497703 12.617321,-49.680503 8.4506,-15.182792 20.7115,-27.901592 35.5745,-36.902892 l 2.5901,4.2768 c -14.1198,8.5513 -25.7677,20.6341 -33.7958,35.057792 -8.028071,14.4236 -12.159261,30.6902 -11.986391,47.196803 0.17286,16.506 4.64381,32.683 12.972191,46.935 8.3284,14.252 20.2268,26.089 34.5226,34.342 z"
+       fill="#95d978"
+       id="path893"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 139.75935,17.343355 c 15.0632,-8.6619898 32.1235,-13.2494468 49.4996,-13.3102868 17.3761,-0.06084 34.4681,4.407037 49.5911,12.9632868 15.124,8.5563 27.757,20.9056 36.654,35.830896 8.898,14.925296 13.753,31.911496 14.087,49.284399 l -5,0.0961 c -0.317,-16.504303 -4.929,-32.641203 -13.381,-46.820203 -8.453,-14.179092 -20.454,-25.910892 -34.822,-34.039392 -14.367,-8.12844 -30.604,-12.3729198 -47.1116,-12.3151198 -16.5073,0.0578 -32.7146,4.4158798 -47.0246,12.6447198 z"
+       fill="#bd1e51"
+       id="path895"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 201.05905,89.772547 h 32.437 l -26.242,19.065903 -0.882,0.641 0.337,1.036 10.024,30.85 -26.242,-19.066 -0.882,-0.641 -0.8817,0.641 -26.2422,19.066 10.0237,-30.85 0.3367,-1.036 -0.8816,-0.641 -26.2423,-19.065903 h 32.4372 1.0898 l 0.3368,-1.0364 10.0236,-30.8496 10.024,30.8496 0.336,1.0364 z"
+       stroke="#f1b814"
+       stroke-width="3"
+       id="path897"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 189.60905,122.03245 19.021,-12.783 -7.265,-20.683803 h -23.5117 l -7.2654,20.683803 z"
+       fill="#f1b814"
+       id="path899"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       x="173.60905"
+       y="107.03247"
+       width="32"
+       height="4"
+       fill="#f1b814"
+       id="rect901"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:label="rect901" />
+    <path
+       d="m 187.53935,100.69455 3.8347,0.0219 1.164,3.654 -3.1149,2.236 -3.0896,-2.271 z"
+       stroke="#4893bd"
+       id="path903"
+       inkscape:export-filename="/home/colin/Bureau/LV-LOGO.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:label="hexagone" />
+    <g
+       aria-label="LE VIETNAMIEN.FR"
+       transform="translate(-19.569582,8.6171887)"
+       id="text963"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.1418px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.878543;image-rendering:optimizeQuality"
+       inkscape:label="levietnamien.fr">
+      <path
+         d="m 25.491302,221.56864 h 6.606246 v 20.62522 h 11.59954 v 4.99329 H 25.491302 Z"
+         style="fill:#4893bd;fill-opacity:1"
+         id="path3193" />
+      <path
+         d="m 47.883905,221.56864 h 17.828286 v 4.99329 h -11.22204 v 4.77023 h 10.552836 v 4.99329 H 54.490151 v 5.86841 h 11.59954 v 4.99329 H 47.883905 Z"
+         style="fill:#ffffff"
+         id="path3195" />
+      <path
+         d="m 81.069569,221.56864 h 6.640564 l 6.794997,18.90931 6.77784,-18.90931 h 6.64056 l -9.48897,25.61851 h -7.876019 z"
+         style="fill:#bd1e51;fill-opacity:1"
+         id="path3197" />
+      <path
+         d="m 111.32103,221.56864 h 6.60625 v 25.61851 h -6.60625 z"
+         style="fill:#ffffff"
+         id="path3199" />
+      <path
+         d="m 124.39625,221.56864 h 17.82829 v 4.99329 H 131.0025 v 4.77023 h 10.55284 v 4.99329 H 131.0025 v 5.86841 h 11.59954 v 4.99329 h -18.20579 z"
+         style="fill:#ffffff"
+         id="path3201" />
+      <path
+         d="m 145.34749,221.56864 h 23.6109 v 4.99329 h -8.49375 v 20.62522 h -6.60624 v -20.62522 h -8.51091 z"
+         style="fill:#ffffff"
+         id="path3203" />
+      <path
+         d="m 172.37305,221.56864 h 7.3784 l 9.31738,17.5709 v -17.5709 h 6.26307 v 25.61851 h -7.37841 l -9.31738,-17.5709 v 17.5709 h -6.26306 z"
+         style="fill:#f1b814;fill-opacity:1"
+         id="path3205" />
+      <path
+         d="m 217.32983,242.51988 h -10.32976 l -1.63012,4.66727 h -6.64056 l 9.48897,-25.61851 h 7.87602 l 9.48897,25.61851 h -6.64056 z m -8.68249,-4.75307 h 7.01806 l -3.50045,-10.19249 z"
+         style="fill:#ffffff"
+         id="path3207" />
+      <path
+         d="m 228.98086,221.56864 h 8.40795 l 5.83409,13.71011 5.86841,-13.71011 h 8.39079 v 25.61851 h -6.24591 v -18.73772 l -5.90272,13.81306 h -4.18682 l -5.90272,-13.81306 v 18.73772 h -6.26307 z"
+         style="fill:#ffffff"
+         id="path3209" />
+      <path
+         d="m 263.95106,221.56864 h 6.60625 v 25.61851 h -6.60625 z"
+         style="fill:#ffffff"
+         id="path3211" />
+      <path
+         d="m 277.02629,221.56864 h 17.82829 v 4.99329 h -11.22204 v 4.77023 h 10.55283 v 4.99329 h -10.55283 v 5.86841 h 11.59954 v 4.99329 h -18.20579 z"
+         style="fill:#ffffff"
+         id="path3213" />
+      <path
+         d="m 301.03183,221.56864 h 7.3784 l 9.31739,17.5709 v -17.5709 h 6.26306 v 25.61851 h -7.3784 l -9.31739,-17.5709 v 17.5709 h -6.26306 z"
+         style="fill:#ffffff"
+         id="path3215" />
+      <path
+         d="m 330.80284,240.54658 h 6.17727 v 6.64057 h -6.17727 z"
+         style="fill:#95d978;fill-opacity:1"
+         id="path3217" />
+      <path
+         d="m 343.79227,221.56864 h 17.82828 v 4.99329 h -11.22204 v 4.77023 h 10.55284 v 4.99329 h -10.55284 v 10.8617 h -6.60624 z"
+         style="fill:#ffffff"
+         id="path3219" />
+      <path
+         d="m 377.18384,232.92795 q 2.07625,0 2.96852,-0.77216 0.90943,-0.77216 0.90943,-2.53954 0,-1.75023 -0.90943,-2.50523 -0.89227,-0.755 -2.96852,-0.755 h -2.77977 v 6.57193 z m -2.77977,4.56432 v 9.69488 h -6.60625 v -25.61851 h 10.08954 q 5.06193,0 7.41272,1.69875 2.36796,1.69875 2.36796,5.37079 0,2.53955 -1.23546,4.16966 -1.21829,1.63011 -3.6892,2.40227 1.35557,0.30886 2.41943,1.40704 1.08102,1.08103 2.1792,3.29455 l 3.58625,7.27545 h -7.03522 l -3.12295,-6.36602 q -0.94375,-1.92182 -1.92182,-2.62534 -0.96091,-0.70352 -2.57386,-0.70352 z"
+         style="fill:#ffffff"
+         id="path3221" />
+    </g>
+  </g>
+</svg>
