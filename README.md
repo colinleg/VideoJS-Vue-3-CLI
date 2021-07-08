@@ -9,7 +9,7 @@ Fonctionnalités de base de video.js dans un environnement Vue 3 CLI.
   
  ## Installer le projet
   
-    Le projet se trouve dans videojs-vue/ , puis : 
+ Le projet se trouve dans videojs-vue/ , puis : 
     
 ```
 yarn install
