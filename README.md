@@ -23,5 +23,16 @@ yarn serve
 import videojs from 'video.js';
 import 'video.js/dist/video-js.css';
 ```
-
+### Instancier video.js sur une balise <video>
   
+```html
+  <video id="player" class="video-js" controls preload="auto" width="960" height="505" data-setup="{}">
+                <source id="src" src='@/assets/1.mp4' type='video/mp4' />
+  </video>
+```
+  
+```js
+mounted(){
+this.player = videojs(document.querySelector('#player'));
+}
+```
