@@ -62,4 +62,55 @@ this.player = videojs(document.querySelector('#player'));
     this.player.addChild(myCustomButton)
     console.log(opt1);
 ```
- 
+  
+### Obtenir les dimensions du tag video 
+  
+```js
+getDimensions(element){
+
+  let el = element;
+  let rect = el.getBoundingClientRect();
+
+  this.elH = el.offsetHeight;
+  this.elW = el.offsetWidth;
+  this.elMt = rect.top;
+  this.elMl = rect.left;
+
+},
+```
+```js
+  this.getDimensions(this.player.el());
+```
+
+### Créer un calque superposé à la vidéo 
+  
+```js
+initLayout(){
+  
+  let layoutStyle = document.querySelector('.layout').style;
+  let h = this.elH - 60; // 60px est ici la taille de controlBar dans le lecteur vidéo
+
+  layoutStyle.height = `${h}px`;
+  layoutStyle.width = `${this.elW}px`;
+
+},
+```
+### Activer ou cacher le calque avec 2 méthodes
+```js
+show(){
+  
+  let layout = document.querySelector('.layout');
+
+  layout.classList.remove('hide');
+  layout.classList.add('active');
+  
+  },
+hide(){
+  
+  let layout = document.querySelector('.layout');
+
+  layout.classList.remove('active');
+  layout.classList.add('hide');
+  
+  }
+```
