@@ -55,7 +55,7 @@ this.player = videojs(document.querySelector('#player'));
   });
 ```
   
-### Instancer un bouton appartenant à cette nouvelle classe 
+### Instancier un bouton appartenant à cette nouvelle classe 
   
 ```js
   let myCustomButton = new customButton(this.player);
