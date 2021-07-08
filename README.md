@@ -1,6 +1,6 @@
 # VideoJS-Vue-3-CLI
 
-Fonctionnalités de base de video.js dans un environnement Vue 3 CLI.<br/>
+Fonctionnalités de base de video.js dans un environnement Vue 3 CLI.<br/><br/>
   -> Créer et personnaliser de nouveaux boutons vjs (videojs) à partir des classes composantes de vjs.<br/>
   -> Obtenir les dimensions du lecteur video<br/>
   -> Créer un overlay en HTML : insertion CSS / Javascript <br/>
