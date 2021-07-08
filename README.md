@@ -114,3 +114,20 @@ hide(){
   
   }
 ```
+  
+Problème : à ce niveau là, le calque ne se redimensionne  pas quand la vidéo passe en plein écran.<br />
+Pour cela il faut l'insérer dans le l'HTMLElement du lecteur vidéo.
+  
+```js
+this.player.on('fullscreenchange',() => {
+
+        let layout = document.querySelector('.layout');
+        let player = document.querySelector('#player');
+        this.getDimensions(this.player.el()); // prend les dimension du player ( plein écran ) 
+        this.initLayout(); // redimensionne le calque (ici fait w-100%, h-100% du player)
+        player.append(layout);
+
+    })
+``` 
+  
+  
