@@ -122,8 +122,8 @@ Pour cela il faut l'insérer dans l'élément DOM de l'instance videojs
 mounted(){
   this.player = videojs(document.querySelector('#player'));
         this.getDimensions(this.player.el());
-        let maskContainer = document.querySelector('.mask-ctnr');
-        this.player.el().append(maskContainer);
+        let layout = document.querySelector('.layout');
+        this.player.el().append(layout);
 }
 ```
   
