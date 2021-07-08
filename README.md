@@ -36,3 +36,21 @@ mounted(){
 this.player = videojs(document.querySelector('#player'));
 }
 ```
+  
+### Créer une classe de bouton personnalisé 
+
+```js
+  // on prend le composant Button de video.js
+  let button = videojs.getComponent('Button');
+  
+  // on étend la classe Button à customOptionButton
+  const customOptionButton = videojs.extend(button, {
+
+  constructor: function() {
+  button.apply(this, arguments);
+  this.controlText("CustomOptionButton"); // le titre du nouveau bouton
+  this.addClass('vjs-option-btn'); // la classe html du nouveau bouton
+  }
+
+  })
+```
