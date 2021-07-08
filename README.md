@@ -43,14 +43,23 @@ this.player = videojs(document.querySelector('#player'));
   // on prend le composant Button de video.js
   let button = videojs.getComponent('Button');
   
-  // on étend la classe Button à customOptionButton
-  const customOptionButton = videojs.extend(button, {
+  // on étend la classe Button à customButton
+  const customButton = videojs.extend(button, {
 
-  constructor: function() {
-  button.apply(this, arguments);
-  this.controlText("CustomOptionButton"); // le titre du nouveau bouton
-  this.addClass('vjs-option-btn'); // la classe html du nouveau bouton
-  }
+    constructor: function() {
+      button.apply(this, arguments);
+      this.controlText("CustomButton"); // le titre du nouveau bouton
+      this.addClass('vjs-option-btn'); // la classe html du nouveau bouton
+    }
 
-  })
+  });
 ```
+  
+### Instancer un bouton appartenant à cette nouvelle classe 
+  
+```js
+  let myCustomButton = new customButton(this.player);
+    this.player.addChild(myCustomButton)
+    console.log(opt1);
+```
+ 
