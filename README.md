@@ -1,4 +1,4 @@
-# VideoJS-Vue-3-CLI
+# VideoJS-Vue-3-CLI [Fr]
 
 Fonctionnalités de base de video.js dans un environnement Vue 3 CLI.<br/><br/>
   -> Créer et personnaliser de nouveaux boutons vjs (videojs) à partir des classes composantes de vjs.<br/>
